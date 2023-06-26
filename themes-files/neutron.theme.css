@@ -19,7 +19,8 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 @import url("https://xcruxiex.github.io/themes/themes-cores/neutron8.css");
 @import url("https://xcruxiex.github.io/themes/core/badges.css");
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /* Custom font import link (see fonts.google.com) */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css');
 /*##########################################################################
 
                  CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
@@ -31,7 +32,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --themeColor2: #5B86E5; /* Theme's color 2 */
 
   /* CUSTOM FONT */
-  --customFont: 'Open sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
+  --customFont: 'Hack', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
 
   /* HOME BUTTON */
   --homeImage: url('https://imgur.com/eItxuAq.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
